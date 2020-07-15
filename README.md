@@ -1,2 +1,3 @@
-# Clojure_P2
-comp 6411 project 2
+# Comparative programming COMP 6411
+
+# Project 2 - Functional programming - Clojure project
